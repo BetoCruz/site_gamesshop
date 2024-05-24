@@ -38,8 +38,8 @@ header nav li a {
     width: 100%;
     margin: 0 auto;
     /*================*/
-    border-style: solid;
-    border-color: red;
+    /* border-style: solid;
+    border-color: red; */
 }
 
 header .container,
